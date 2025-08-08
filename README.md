@@ -1,5 +1,8 @@
 #  Portfolio Optimization Using Pair Trading of Stocks
 
+======================================================================================================================================================
+======================================================================================================================================================
+
 ## 1) All the **stock prices** are taken from automotive sector of NSE, India.
    
    **The training data** consist of closing price of stocks from Yahoo Finance for the period 1st July 2021 to 30th June 2024.
@@ -7,6 +10,9 @@
    The **evaluation**is done based on the annual returns of the stocks on the test data from 1st July 2024 to 30th June 2025.
 
 ## 2) **Correlation coefficients** are computed based on the return values of the close prices.
+
+<img width="3200" height="2000" alt="Assets Return Correlation Matrix" src="https://github.com/user-attachments/assets/e0b73f0b-d999-46be-84a2-07acc05a44af" />
+
 
 ## 3) To identify the pairs which are **cointegrated**, the coint function defined in the stattools submodule under the statsmodels module of Python is      used.
 
