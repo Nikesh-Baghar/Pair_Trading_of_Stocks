@@ -53,5 +53,5 @@
 
 ### 7) 14.08% is the Return On Investment (ROI) for the selected pair of stocks.
 
-   <img width="4800" height="2800" alt="Portfolio Valuation" src="https://github.com/user-attachments/assets/fbbc61db-ab3b-48d7-95bd-2c4a22c3f79c" />
+   <img width="4800" height="2800" alt="Portfolio Valuation" src="https://github.com/user-attachments/assets/e0237439-41a0-4c93-8d81-573e6a906e0c" />
 
