@@ -1,6 +1,9 @@
 #  Portfolio Optimization Using Pair Trading of Stocks
 
 
+
+
+
 ### 1) All the **stock prices** are taken from automotive sector of NSE, India.
    
    **The training data** consist of closing price of stocks from Yahoo Finance for the period 1st July 2021 to 30th June 2024.
@@ -48,7 +51,6 @@
    At the end of 30 June 2025 the excess (or deficit) of the total portfolio value over the total initial investment of 200000 units is computed to       arrive at the **profit (or loss).**
 
    Based on the computed profit (or loss), the **return of the portfolio** is derived. 
-
 
 ### 7) 14.08% is the Return On Investment (ROI) for the selected pair of stocks.
 
