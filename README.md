@@ -1,6 +1,9 @@
 #  Portfolio Optimization Using Pair Trading of Stocks
 
-
+The work proposes a cointegration-based pair trading approach for stock portfolio design that can be used to earn profit by the investors in the stock market. The
+innovative trading strategy provides the investors with reliable signals for triggering the short, long, or no action needed for carrying out transactions in the portfolio
+for one year from during the portfolio test period. The pair-trading models are trained and evaluated on real-world stock market data and the results are presented to
+demonstrate the effectiveness of the model.
 
 
 
