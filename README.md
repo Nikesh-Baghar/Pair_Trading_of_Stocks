@@ -49,7 +49,8 @@
 
    Based on the computed profit (or loss), the **return of the portfolio** is derived. 
 
-  
+  <img width="4800" height="2800" alt="Portfolio Valuation" src="https://github.com/user-attachments/assets/2a0d314f-baa1-41d5-ad08-f41b1df614c1" />
+
 
 ### 7) 14.08% is the Return On Investment (ROI) for the selected pair of stocks.
 
